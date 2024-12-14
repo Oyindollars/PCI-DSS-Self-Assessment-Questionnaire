@@ -2,7 +2,7 @@ Overview
 
 This repository provides an analysis of PCI DSS (Payment Card Industry Data Security Standard) Self-Assessment Questionnaires (SAQs) for various business scenarios. It includes a breakdown of the appropriate SAQ types for five different organizations based on their business practices, transaction types, and data handling processes.
 
-See assignment scenairos here:
+See assignment scenairos here: https://github.com/Oyindollars/PCI-DSS-Self-Assessment-Questionnaire/blob/62ebedcf4995e6022560357adbd7f7b757336bcb/Assignment%20Requirement
 
 Justifications for SAQ Types: Each recommendation is accompanied by a clear justification.
 
