@@ -8,4 +8,4 @@ Justifications for SAQ Types: Each recommendation is accompanied by a clear just
 
 Project Deliverables:  A document containing the analysis and reasoning for SAQ selection for each business type. 
 
-Download SAQ Justification Analysis here: 
+Download SAQ Justification Analysis here: https://github.com/Oyindollars/PCI-DSS-Self-Assessment-Questionnaire/blob/ea5d5f2f0103d87c3d844bd2d6ca724810442899/Assignment%202.pdf
